@@ -19,7 +19,9 @@
 %----------------------------------------------------------------------------------------
 
 \documentclass[a0,portrait]{a0poster}
-
+\usepackage[ngerman]{babel}
+\usepackage[backend=biber,style=numeric]{biblatex}
+\addbibresource{sample.bib}
 \usepackage{multicol} % This is so we can have multiple columns of text side-by-side
 \columnsep=100pt % This is the amount of white space between the columns in the poster
 \columnseprule=3pt % This is the thickness of the black line between the columns in the poster
@@ -121,17 +123,17 @@ Mögliche Nachteile von Prototyping sind:
 Unter der Führung der Universität Saarland entsteht im Forschungszentrum Jülich in Nordrhein-Westfalen der Prototyp eines supraleitenden Hybrid-Quantencomputers. Für den Prototypen ist ein Budget von 10.33 Millionen Euro veranschlagt und eine Laufzeit von drei Jahren\cite{QUANTUM}. Ziel des Prototypen ist die Erforschung und Weiterentwicklung von Quantencomputern.
 \begin{center}\vspace{1cm}
 \includegraphics[width=0.8\linewidth]{ibm.jpg}
-\captionof{figure}{\color{Green} Figure caption}
+\captionof{figure}{Ein Quantencomputer von IBM\cite{IBM}}
 \end{center}\vspace{1cm}
 
 \subsection*{Paper-Prototyping}
 Beim Paper-Prototyping wird ein Prototyp aus einfachsten Mittel hergestellt um eine Software oder eine Hardware zu simulieren. Dazu können verschiedene Komponenten aus Papier hergestellt und auf eine Fläche gelegt werden. Eine Testperson kann sich anschließen durch diesen Prototypen arbeiten in dem ein wissenschaftlicher Mitarbeiter die Logik des Programms imitiert und Komponenten je nach Reaktion der Testperson hinzugefügt, entfernt oder ändert.
 \begin{center}\vspace{1cm}
 \includegraphics[width=0.8\linewidth]{paper-prototype.jpg}
-\captionof{figure}{\color{Green} Figure caption}
+\captionof{figure}{Ein Beispiel für einen Papier-Prototypen\cite{PAPER}}
 \end{center}\vspace{1cm}
 
 \nocite{*} % Print all references regardless of whether they were cited in the poster or not
-\bibliography{sample} % Use the example bibliography file sample.bib
+\printbibliography{}
 \end{multicols}
 \end{document}
