@@ -1,12 +1,11 @@
 # Fdb version 3
-["bibtex conference_poster_6"] 1548256605 "conference_poster_6.aux" "conference_poster_6.bbl" "conference_poster_6" 1548329860
-  "/usr/share/texmf-dist/bibtex/bst/base/plain.bst" 1543696176 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "conference_poster_6.aux" 1548329860 559 916dc403c1553dafebfcbe20788ce921 ""
-  "sample.bib" 1364333298 389 db81ddd685b8d7a35c72de38da6aecfa ""
+["bibtex conference_poster_6"] 1548335128 "conference_poster_6.aux" "conference_poster_6.bbl" "conference_poster_6" 1548335139
+  "conference_poster_6.aux" 1548335139 285 00035939c75f21b5d8d5e266b7a81313 ""
+  "sample.bib" 1548334772 533 73d792fab485643c34e08da4d7463e75 ""
   (generated)
-  "conference_poster_6.blg"
   "conference_poster_6.bbl"
-["pdflatex"] 1548329860 "conference_poster_6.tex" "conference_poster_6.pdf" "conference_poster_6" 1548329860
+  "conference_poster_6.blg"
+["pdflatex"] 1548335139 "conference_poster_6.tex" "conference_poster_6.pdf" "conference_poster_6" 1548335139
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1543696176 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1543696176 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1543696176 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -15,11 +14,6 @@
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm" 1543696176 4408 25b74d011a4c66b7f212c0cc3c90061b ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm" 1543696176 2288 f478fc8fed18759effb59f3dad7f3084 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm" 1543696176 4640 532ca3305aad10cc01d769f3f91f1029 ""
-  "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1543696176 916 f87d7c45f9c908e672703b83b72241a3 ""
-  "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1543696176 908 2921f8a10601f252058503cc6570e581 ""
-  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1543696176 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
-  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1543696176 1524 4414a8315f39513458b80dfc63bff03a ""
-  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1543696176 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1543696176 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1543696176 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1543696176 32569 5e5ddc8df908dea60932f3c484a54c0d ""
@@ -41,8 +35,6 @@
   "/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty" 1543696176 12604 3dec726c041422879dc3268237f09026 ""
   "/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty" 1543696176 5949 3f3fd50a8cc94c3d4cbf4fc66cd3df1c ""
   "/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty" 1543696176 13829 94730e64147574077f8ecfea9bb69af4 ""
-  "/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd" 1543696176 961 6518c6525a34feb5e8250ffa91731cff ""
-  "/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd" 1543696176 961 d02606146ba5601b5645f987c92e6193 ""
   "/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty" 1543696176 2211 ca7ce284ab93c8eecdc6029dc5ccbd73 ""
   "/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty" 1543696176 4161 7f6eb9092061a11f87d08ed13515b48d ""
   "/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty" 1543696176 84354 7292177bb735c466b78634ee4efd537e ""
@@ -76,12 +68,13 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1548281188 7910428 b47e7c9f90e0bf0c6d601e26740e3f4a ""
   "a0poster.cls" 1371907556 6176 37402c6052502599d35b9e16a21767aa ""
   "a0size.sty" 1297933626 7728 3b92cf7fd22bdf46734222814afe7554 ""
-  "conference_poster_6.aux" 1548329860 559 916dc403c1553dafebfcbe20788ce921 ""
-  "conference_poster_6.bbl" 1548256605 317 40d3bcbe1989a7a26701254683c93049 "bibtex conference_poster_6"
-  "conference_poster_6.tex" 1548329839 13505 2a7d0fdfed3c5d5bbe35fcd596ba76db ""
+  "conference_poster_6.aux" 1548335139 285 00035939c75f21b5d8d5e266b7a81313 ""
+  "conference_poster_6.bbl" 1548335128 0 d41d8cd98f00b204e9800998ecf8427e "bibtex conference_poster_6"
+  "conference_poster_6.tex" 1548335126 9916 a937329ae5d765cb6392caad200d9d4a ""
   "figures/Logo_TUC_de_CMYK.pdf" 1548329724 7628 fd18b668f8b55c755c3bff159b8354db ""
-  "figures/placeholder.jpg" 1360000296 20279 2c3b3984e263aa5f7146ef59d3f89f8c ""
+  "figures/ibm.jpg" 1548334105 108667 aaef074edb35a9c3422d9528fe45d360 ""
+  "figures/paper-prototype.jpg" 1548333916 1767487 88b02e1978ef27ee0aae74b4d51681ea ""
   (generated)
-  "conference_poster_6.log"
-  "conference_poster_6.aux"
   "conference_poster_6.pdf"
+  "conference_poster_6.aux"
+  "conference_poster_6.log"

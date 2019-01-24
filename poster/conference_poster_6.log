@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.1.23)  24 JAN 2019 12:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.1.23)  24 JAN 2019 14:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -392,56 +392,52 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <24.88> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 104.
-LaTeX Font Info:    Try loading font information for U+msa on input line 124.
-
-(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 124.
-
-(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <29.86> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 120.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 126.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 121.
 
-Overfull \hbox (51.61647pt too wide) in paragraph at lines 124--133
-[][] 
- []
 
-<figures/placeholder.jpg, id=2, 351.3125pt x 193.72375pt>
-File: figures/placeholder.jpg Graphic file (type jpg)
-<use figures/placeholder.jpg>
-Package pdftex.def Info: figures/placeholder.jpg  used on input line 141.
-(pdftex.def)             Requested size: 801.74945pt x 442.18245pt.
-File: figures/placeholder.jpg Graphic file (type jpg)
-<use figures/placeholder.jpg>
-Package pdftex.def Info: figures/placeholder.jpg  used on input line 165.
-(pdftex.def)             Requested size: 801.74945pt x 442.18245pt.
+LaTeX Warning: Citation `QUANTUM' on page 1 undefined on input line 121.
+
+<figures/ibm.jpg, id=2, 722.7pt x 481.8pt>
+File: figures/ibm.jpg Graphic file (type jpg)
+<use figures/ibm.jpg>
+Package pdftex.def Info: figures/ibm.jpg  used on input line 123.
+(pdftex.def)             Requested size: 801.74945pt x 534.5029pt.
+<figures/paper-prototype.jpg, id=3, 3035.34pt x 4047.12pt>
+File: figures/paper-prototype.jpg Graphic file (type jpg)
+<use figures/paper-prototype.jpg>
+Package pdftex.def Info: figures/paper-prototype.jpg  used on input line 130.
+(pdftex.def)             Requested size: 801.74945pt x 1068.96175pt.
 (./conference_poster_6.bbl) [1
 
 
 Non-PDF special ignored!
 <special> papersize=83.96cm,118.82cm
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figures/Logo_TUC_de_CMYK
-.pdf> <./figures/placeholder.jpg>] (./conference_poster_6.aux) ) 
+.pdf> <./figures/ibm.jpg> <./figures/paper-prototype.jpg>]
+(./conference_poster_6.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4523 strings out of 492639
- 66834 string characters out of 6135497
- 181048 words of memory out of 5000000
- 8330 multiletter control sequences out of 15000+600000
- 27129 words of font info for 56 fonts, out of 8000000 for 9000
+ 4493 strings out of 492639
+ 66328 string characters out of 6135497
+ 171466 words of memory out of 5000000
+ 8310 multiletter control sequences out of 15000+600000
+ 23497 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,8n,39p,1079b,390s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/tex
-mf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><
-/usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/f
-onts/type1/urw/times/utmri8a.pfb>
-Output written on conference_poster_6.pdf (1 page, 85497 bytes).
+ 41i,6n,39p,1079b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/urw/t
+imes/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/s
+hare/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on conference_poster_6.pdf (1 page, 1937483 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
+ 30 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
