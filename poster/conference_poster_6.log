@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.1.23)  24 JAN 2019 14:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.1.23)  24 JAN 2019 14:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -665,6 +665,8 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <35.83> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 87.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 88.
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 106.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/omsptm.fd
@@ -712,11 +714,11 @@ Package logreq Info: Writing requests to 'conference_poster_6.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11781 strings out of 492639
- 199752 string characters out of 6135497
+ 11775 strings out of 492639
+ 199649 string characters out of 6135497
  685662 words of memory out of 5000000
- 15501 multiletter control sequences out of 15000+600000
- 29875 words of font info for 61 fonts, out of 8000000 for 9000
+ 15494 multiletter control sequences out of 15000+600000
+ 31501 words of font info for 63 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  38i,6n,61p,1079b,2191s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
@@ -724,7 +726,7 @@ ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/urw/c
 ourier/ucrr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr
 /share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts
 /type1/urw/times/utmri8a.pfb>
-Output written on conference_poster_6.pdf (1 page, 1954778 bytes).
+Output written on conference_poster_6.pdf (1 page, 1955490 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  22 compressed objects within 1 object stream
