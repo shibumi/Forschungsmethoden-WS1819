@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex conference_poster_6"] 1548256605 "conference_poster_6.aux" "conference_poster_6.bbl" "conference_poster_6" 1548328798
+["bibtex conference_poster_6"] 1548256605 "conference_poster_6.aux" "conference_poster_6.bbl" "conference_poster_6" 1548329860
   "/usr/share/texmf-dist/bibtex/bst/base/plain.bst" 1543696176 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "conference_poster_6.aux" 1548328798 559 916dc403c1553dafebfcbe20788ce921 ""
+  "conference_poster_6.aux" 1548329860 559 916dc403c1553dafebfcbe20788ce921 ""
   "sample.bib" 1364333298 389 db81ddd685b8d7a35c72de38da6aecfa ""
   (generated)
   "conference_poster_6.blg"
   "conference_poster_6.bbl"
-["pdflatex"] 1548328798 "conference_poster_6.tex" "conference_poster_6.pdf" "conference_poster_6" 1548328798
+["pdflatex"] 1548329860 "conference_poster_6.tex" "conference_poster_6.pdf" "conference_poster_6" 1548329860
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1543696176 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1543696176 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1543696176 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -76,12 +76,12 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1548281188 7910428 b47e7c9f90e0bf0c6d601e26740e3f4a ""
   "a0poster.cls" 1371907556 6176 37402c6052502599d35b9e16a21767aa ""
   "a0size.sty" 1297933626 7728 3b92cf7fd22bdf46734222814afe7554 ""
-  "conference_poster_6.aux" 1548328798 559 916dc403c1553dafebfcbe20788ce921 ""
+  "conference_poster_6.aux" 1548329860 559 916dc403c1553dafebfcbe20788ce921 ""
   "conference_poster_6.bbl" 1548256605 317 40d3bcbe1989a7a26701254683c93049 "bibtex conference_poster_6"
-  "conference_poster_6.tex" 1548328795 13493 f50691a0a46b5decf7278afaea1b239a ""
-  "figures/logo.png" 1358688392 21710 2c9e8349f7e0dab2244dfcf881327291 ""
+  "conference_poster_6.tex" 1548329839 13505 2a7d0fdfed3c5d5bbe35fcd596ba76db ""
+  "figures/Logo_TUC_de_CMYK.pdf" 1548329724 7628 fd18b668f8b55c755c3bff159b8354db ""
   "figures/placeholder.jpg" 1360000296 20279 2c3b3984e263aa5f7146ef59d3f89f8c ""
   (generated)
-  "conference_poster_6.pdf"
-  "conference_poster_6.aux"
   "conference_poster_6.log"
+  "conference_poster_6.aux"
+  "conference_poster_6.pdf"
