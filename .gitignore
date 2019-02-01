@@ -1,5 +1,8 @@
-abstract.aux
-abstract.fdb_latexmk
-abstract.fls
-abstract.log
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
 
